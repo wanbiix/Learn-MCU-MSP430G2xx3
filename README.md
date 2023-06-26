@@ -1,0 +1,2 @@
+# Learn-MCU-MSP430G2xx3
+Tự học về MCU MSP430G2553
